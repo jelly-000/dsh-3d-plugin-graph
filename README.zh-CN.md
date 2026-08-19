@@ -6,7 +6,9 @@
 
 ![license](https://img.shields.io/badge/license-MIT-blue) ![version](https://img.shields.io/badge/version-0.1.0-4caf50) ![dsh](https://img.shields.io/badge/DSH-plugin-1f6feb) ![topic](https://img.shields.io/badge/topic-dsh--plugin-8b5cf6)
 
-<video src="https://github.com/jelly-000/dsh-3d-plugin-graph/raw/main/docs/demo.mp4" poster="https://github.com/jelly-000/dsh-3d-plugin-graph/raw/main/docs/demo-poster.jpg" width="100%" controls muted loop playsinline></video>
+[![点击观看演示视频（3.8 秒）](docs/demo-poster.jpg)](docs/demo.mp4)
+
+▶ [在浏览器中打开演示视频](docs/demo.mp4)
 
 ![截图](docs/screenshot.png)
 
