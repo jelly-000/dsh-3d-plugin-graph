@@ -6,10 +6,6 @@
 
 ![license](https://img.shields.io/badge/license-MIT-blue) ![version](https://img.shields.io/badge/version-0.1.0-4caf50) ![dsh](https://img.shields.io/badge/DSH-plugin-1f6feb) ![topic](https://img.shields.io/badge/topic-dsh--plugin-8b5cf6)
 
-[![Watch the demo (3.8 s)](docs/demo-poster.jpg)](docs/demo.mp4)
-
-▶ [Open the demo video in the browser](docs/demo.mp4)
-
 ![Screenshot](docs/screenshot.png)
 
 ## What is it?
