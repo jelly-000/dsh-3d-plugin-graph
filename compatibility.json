@@ -1,0 +1,11 @@
+{
+  "dsh": ">=0.1.0-rc.6",
+  "webServerKeys": ["webServer", "httpServer"],
+  "clientProtocol": "ModuleLoader",
+  "clientManifest": ["dsh.client", "dshClient"],
+  "tested": {
+    "hostBoot": true,
+    "clientBoot": true,
+    "headlessWithoutWebServer": true
+  }
+}

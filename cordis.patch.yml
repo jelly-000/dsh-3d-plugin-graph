@@ -1,0 +1,6 @@
+# dsh-3d-plugin-graph bundle patch
+# Mounts the plugin row into the host composition. The plugin serves the
+# standalone 3D Plugin Graph UI and a JSON state route.
+- insert:
+    - id: dsh-3d-plugin-graph
+      name: dsh-3d-plugin-graph
