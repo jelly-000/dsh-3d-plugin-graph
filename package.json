@@ -1,6 +1,6 @@
 {
   "name": "dsh-3d-plugin-graph",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DSH 3D Plugin Graph: black-white 3D plugin space visualization with 360° rotation, free node drag, hover/click popups, and runtime flow effects.",
   "type": "module",
   "main": "lib/index.js",
